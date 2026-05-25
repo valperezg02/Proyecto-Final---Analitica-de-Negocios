@@ -1,0 +1,1 @@
+Proyecto de analítica de negocios que aplica clustering K-Means y redes neuronales ADALINE para segmentar transacciones de ventas de Amazon y predecir el ingreso total, apoyando la toma de decisiones basada en datos en el comercio electrónico.
